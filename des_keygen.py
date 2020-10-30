@@ -1,4 +1,4 @@
-s = '10100101'
+s = '10100111'
 #64 bit key as binary bit
 
 HexKEY = "22234512987ABB23"
